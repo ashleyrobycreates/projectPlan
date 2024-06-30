@@ -16,7 +16,7 @@ Features will be incorporated throughout the website such as HTML, Javascript, C
  <li>5. Top right: Add Search bar, buttons, Nav bar on right in Javascript.</li>
  <li>6. Aside container/flexbox with "Seeds that have worked for me".</li>
  <li>7. Images below "aside" box from home garden.</li>
- <li>8. Plant Indenty API insertion box w/ search button.</li>
+ <li>8. Plant identity API insertion box w/ search button.</li>
  <li>9. Planting zone chart and/or image.</li>
  <li>10. Footer with contact info and disclaimers.</li>
 </p>
