@@ -2,7 +2,7 @@
 <h1>Welcome to my projectPlan!<h1>
 <h2>Introduction</h2>
 <br>
-<p>This will be a simple, responsive website detailing how to grow a quick vegetable garden including instructions, images, current weather info based on the locale of the client, a planting zone for the clients area via chart or image. Also included will be a plant identity search API and/or an API that will play music and sounds for plants while they grow via Spotify. Research will be available showing how playing music and sound increases the growth health of plants and gardens. Wireframing images are attached for this projecct plan.
+<p>This will be a simple, responsive website detailing how to grow a quick vegetable garden including instructions, images, current weather info based on the locale of the client, a planting zone for the clients area via chart or image. Also included will be a plant identity search API and/or an API that will play music and sounds for plants while they grow via Spotify. Research will be available showing how playing music and sound increases the growth health of plants and gardens. Wireframing images are attached for this project plan.
 Features will be incorporated throughout the website such as HTML, Javascript, CSS Grid, Flexbox, media queries, integrating 1-2 third party API's, adaptation to mobile and desktop, Fetch API, and Express JS. </p>
 <br>
 <h2>Outline for Page One</h2>
