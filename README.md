@@ -1,8 +1,9 @@
 # projectPlan
 <h1>Welcome to my projectPlan!<h1>
-
-<h2>This will be a simple website detailing how to grow a quick vegetable garden including instructions, images, current weather info based on the local of the client, a planting zone for the clients area chart or image. Also included will be a plant identity search and/or a API that will play tunes for plants while they grow via Spotify, as well as research showing how playing music/sound increase the growth health of plants. I've included the attached images of a wireframing mock up to jot down ideas of placements and tasks.
-Features will include HTML, Javascript, CSS Grid, Flexbox, integrating 1-2 third party API's, adaptation to mobile and desktop</h2>
+<h2>Introduction</h2>
+<br>
+<p>This will be a simple, responsive website detailing how to grow a quick vegetable garden including instructions, images, current weather info based on the local of the client, a planting zone for the clients area chart or image. Also included will be a plant identity search and/or a API that will play tunes for plants while they grow via Spotify, as well as research showing how playing music/sound increase the growth health of plants. I've included the attached images of a wireframing mock up to jot down ideas of placements and tasks.
+Features will include HTML, Javascript, CSS Grid, Flexbox, media queries, integrating 1-2 third party API's, adaptation to mobile and desktop. Fetch API, Express JS, </p>
 <br>
 <h2>Outline for Page One</h2>
 <p>
@@ -27,17 +28,3 @@ Features will include HTML, Javascript, CSS Grid, Flexbox, integrating 1-2 third
     <li>5. *extra* Make an Upload files w/Javascript REST API install so clients can upload a picture of their fav veggie pic/garden using  Express.js.</li>
     <li>6. *Maybe* Nav bar on right and/or footer for more contact info.</li>
     <li>7. Conclusion</li>
-<style>
-    h1{ 
-        font-family: TimesNew Roman; italic;
-        text-align: center;
-        font-color: #870EF0;
-  }
-  h2{
-        font-family: TimesNew Roman;
-        text-align: center;
-        font-color: #F00EA2;
-
-  }
-
-</style>
