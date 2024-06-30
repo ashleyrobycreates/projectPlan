@@ -5,7 +5,7 @@
 plants while they grow via Spotify as well as research showing how playing music/sound increase the growth health of plants. I've included the attached images of a wireframing mock up to jot down ideas of placements and tasks.</p>
 <br>
 <h2>Outline for Page One</h2>
-<p>
+<p><li>
 1. Intro "Welcome" with a brief description of the web page.
 2. Instructions on how to grow tomatos from seeds inside. 
 3. Instructions on how to transfer to pots for growth and 
@@ -18,7 +18,7 @@ between intructions flexbox and images of instructions.
 8. Plant Indenty API insertion box w/ search button.
 9. Planting zone chart/image.
 10. Footer with contact info and disclaimers.
-</p>
+</li></p>
 <h2>Outline for Page Two</h2>
 <p>1. Nine image boxes showing the process of building a quick garden to completion
 2. Research results on how plants grow healthier with music and sound.
