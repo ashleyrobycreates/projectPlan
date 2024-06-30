@@ -29,3 +29,4 @@ Features will be incorporated throughout the website such as HTML, Javascript, C
  <li>5. *extra* Make an Upload files w/Javascript REST API install so clients can upload a picture of their fav veggie pic/garden using Express.js.</li>
  <li>6. Nav bar on right and/or footer for more contact info, perhaps a comment box.</li>
  <li>7. Conclusion</li>
+<h2>Thanks for reading! Stay tuned!</h2>
